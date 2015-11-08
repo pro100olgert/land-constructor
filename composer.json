@@ -1,0 +1,22 @@
+{
+  "name": "pro100olgert/land-constructor",
+  "version": "1.0.0",
+  "description": "Landing constructor",
+  "keywords": [
+    "yii2"
+  ],
+  "license": "",
+  "authors": [
+    {
+      "name": "Olgert Vaskevich",
+      "email": "olgert.vaskevich@gmail.com"
+    }
+  ],
+  "type": "yii2-extension",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "olgert\\land\\": ""
+    }
+  }
+}
